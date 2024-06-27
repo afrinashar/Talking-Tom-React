@@ -1,0 +1,25 @@
+.app-container {
+  background-color: #00740a;
+  color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.audio-recorder {
+  text-align: center;
+}
+
+.controls {
+  margin-right: 2px;
+}
+
+.voice-options {
+  margin-top: 20px;
+}
